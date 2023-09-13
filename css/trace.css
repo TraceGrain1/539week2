@@ -1,0 +1,25 @@
+header {
+    margin: 2.5%;
+}
+
+h1 {
+    font-size: 30;
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+}
+
+h2 {
+    font-size: 15;
+    font-family: 'Courier New', Courier, monospace;
+    color: #a70000;
+    text-align: left;
+    margin: 2.5%;
+}
+
+h3 {
+    font-size: 15;
+    font-family: 'Courier New', Courier, monospace;
+    color: #a70000;
+    text-align: left;
+    margin: 2.5%;
+}
