@@ -3,13 +3,13 @@ header {
 }
 
 h1 {
-    font-size: 30;
+    font-size: 50px;
     font-family: "Times New Roman", Times, serif;
     text-align: center;
 }
 
 h2 {
-    font-size: 15;
+    font-size: 35px;
     font-family: 'Courier New', Courier, monospace;
     color: #a70000;
     text-align: left;
@@ -17,9 +17,37 @@ h2 {
 }
 
 h3 {
-    font-size: 15;
+    font-size: 25px;
     font-family: 'Courier New', Courier, monospace;
     color: #a70000;
     text-align: left;
     margin: 2.5%;
+}
+
+h4 {
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #a70000;
+    text-align: left;
+    margin: 2.5%;
+}
+
+ul {
+    list-style: inherit;
+}
+
+li {
+    display: inline-block;
+    margin-left: 50px;
+}
+
+p {
+    line-height: normal;
+}
+
+img {
+    border: 5px solid #a70000;
+    padding: 10px;
+    margin: 20px;
+    border-top-right-radius: 30px;
 }
